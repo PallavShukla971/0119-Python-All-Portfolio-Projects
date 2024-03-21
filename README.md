@@ -1,7 +1,8 @@
 # 0119-Python-All-Portfolio-Projects
 # Projects can be made visible on a Zoom Call
+
 Here is the list of all Projects in Python by me on profile Data Analyst, Data Engineering and Data Scientist
-# #####-#####-EXCEL-#####-#####
+# #####-#####-PYTHON-#####-#####
 
 0100 -----------------  -----------------
 0101 -----------------  -----------------
