@@ -6,7 +6,7 @@ Here is the list of all Projects in Python by me on profile Data Analyst, Data E
 
 0100 ----------------- [0100-Python-LeetCode-150](https://github.com/PallavShukla971/0100-Python-LeetCode-150) -----------------
 
-0101 -----------------  -----------------
+0101 ----------------- 0100-Python-LeetCode-75 -----------------
 
 0102 -----------------  -----------------
 
