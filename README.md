@@ -8,7 +8,7 @@
 Here is the list of all Projects in Python by me on profile Data Analyst, Data Engineering and Data Scientist
 # #####-#####-PYTHON-#####-#####
 
-0100 ----------------- [0100-Python-LeetCode-150](https://github.com/PallavShukla971/0100-Python-LeetCode-150) [LeetCode-75](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%2075) [LeetCode-Pandas](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%20Pandas) -----------------
+0100 ----------------- || [0100-Python-LeetCode-150](https://github.com/PallavShukla971/0100-Python-LeetCode-150) || [LeetCode-75](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%2075) || [LeetCode-Pandas](https://github.com/PallavShukla971/0100-Python-LeetCode-150/tree/main/Python%20Leet%20Code%20Pandas) || -----------------
 
 0101 ----------------- 0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project -----------------
 
